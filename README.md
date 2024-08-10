@@ -6,8 +6,11 @@
 - [x] Tidy Build Process
 - [x] Real Database
 - [x] DB in UI
-- [ ] Add Auth
+- [x] Add Auth
 - [ ] Image Upload
+- [ ] "taint"
+- [ ] Next/Image component
+- [ ] Error management
 - [ ] Routing/image (parralel route)
 - [ ] Delete Button
 - [ ] Analytics
