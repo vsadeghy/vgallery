@@ -4,8 +4,8 @@
 - [x] Deploy
 - [x] Mock data
 - [x] Tidy Build Process
-- [ ] Real Database
-- [ ] DB in UI
+- [x] Real Database
+- [x] DB in UI
 - [ ] Add Auth
 - [ ] Image Upload
 - [ ] Routing/image (parralel route)
