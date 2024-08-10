@@ -3,6 +3,7 @@
 ## TODO
 - [x] Deploy
 - [x] Mock data
+- [x] Tidy Build Process
 - [ ] Real Database
 - [ ] DB in UI
 - [ ] Add Auth
