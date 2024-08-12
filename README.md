@@ -7,7 +7,7 @@
 - [x] Real Database
 - [x] DB in UI
 - [x] Add Auth
-- [ ] Image Upload
+- [x] Image Upload
 - [ ] "taint"
 - [ ] Next/Image component
 - [ ] Error management

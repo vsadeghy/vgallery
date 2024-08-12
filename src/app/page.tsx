@@ -1,16 +1,9 @@
-import { auth } from "@clerk/nextjs/server";
-import { db } from "~/server/db";
+import { getMyImages } from "~/server/queries";
 
 export const dynamic = "force-dynamic";
 
 export default async function HomePage() {
-  const { userId } = auth();
-  const images = !userId
-    ? []
-    : await db.query.images.findMany({
-        where: (image, { eq }) => eq(image.userId, userId),
-        orderBy: (model, { desc }) => desc(model.id),
-      });
+  const images = await getMyImages();
 
   return (
     <main className="">
