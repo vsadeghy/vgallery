@@ -12,6 +12,9 @@ const config = {
   eslint: {
     ignoreDuringBuilds: true,
   },
+  experimental: {
+    taint: true,
+  },
 };
 
 export default config;

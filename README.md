@@ -8,7 +8,7 @@
 - [x] DB in UI
 - [x] Add Auth
 - [x] Image Upload
-- [ ] "taint"
+- [x] "taint"
 - [ ] Next/Image component
 - [ ] Error management
 - [ ] Routing/image (parralel route)
