@@ -1,4 +1,11 @@
-# VGallery originally from T3 Gallery By t3dotgg (Theo)
+# A Gallery app inspired by [Theo](https://github.com/t3dotgg)
+
+## Technologies
+- Language: Typescript
+- Framework: Next.js
+- Database: Postgres
+- ORM: Drizzle
+- Deployment: Vercel
 
 ## TODO
 - [x] Deploy
